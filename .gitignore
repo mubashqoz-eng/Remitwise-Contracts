@@ -1,7 +1,6 @@
 /target
 **/*.rs.bk
 *.wasm
-.env
 .envrc
 *.log
 
@@ -35,3 +34,5 @@ BM/
 
 # Python cache
 __pycache__/
+config.bat
+node_modules
